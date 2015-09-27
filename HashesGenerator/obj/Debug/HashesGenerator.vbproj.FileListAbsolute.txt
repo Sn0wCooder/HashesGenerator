@@ -1,0 +1,20 @@
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.exe.config
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.exe
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.pdb
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.xml
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.Form1.resources
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.Resources.resources
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.vbproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.exe
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.xml
+C:\Users\Leonardo\Desktop\Nuova cartella\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.pdb
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.exe.config
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.exe
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.xml
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.pdb
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.exe
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.pdb
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\bin\Debug\HashesGenerator.xml
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.Form1.resources
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.Resources.resources
+C:\Users\Leonardo\Desktop\HashesGenerator\HashesGenerator\obj\Debug\HashesGenerator.vbproj.GenerateResource.Cache
